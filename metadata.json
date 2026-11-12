@@ -1,0 +1,6 @@
+{
+  "name": "EMO Companion",
+  "description": "An energetic, playful desktop AI robot companion inspired by EMO with expressive animated eyes, continuous voice interaction, and cybernetic charm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
